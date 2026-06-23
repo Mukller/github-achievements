@@ -1,8 +1,4 @@
-<div align="center">
 
-[Русский](README.md) • **English**
-
-</div>
 
 # 🏆 github-achievements
 
