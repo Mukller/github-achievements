@@ -6,13 +6,13 @@
 
 # 🏆 github-achievements
 
-> The most badge-heavy README on GitHub. **2563+ shields** across 51 categories covering every corner of the tech ecosystem.
+> The most badge-heavy README on GitHub. **2573+ shields** across 52 categories covering every corner of the tech ecosystem.
 
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/Mukller/github-achievements?style=for-the-badge&color=yellow)
-![Badge Count](https://img.shields.io/badge/badges-2563%2B-brightgreen?style=for-the-badge)
-![Categories](https://img.shields.io/badge/categories-51-blue?style=for-the-badge)
+![Badge Count](https://img.shields.io/badge/badges-2573%2B-brightgreen?style=for-the-badge)
+![Categories](https://img.shields.io/badge/categories-52-blue?style=for-the-badge)
 
 </div>
 
@@ -440,6 +440,14 @@
 ## 🎯 API Testing & Mocking
 
 ![Postman](https://img.shields.io/badge/Postman-11-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bruno](https://img.shields.io/badge/Bruno-1.29-FF5C5C?style=flat-square&logo=bruno&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-9-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-2024-31C4F4?style=flat-square&logo=hoppscotch&logoColor=white) ![MSW](https://img.shields.io/badge/MSW-2.3-FF6A33?style=flat-square&logo=msw&logoColor=white) ![Mirage_JS](https://img.shields.io/badge/Mirage_JS-0.1-6CADDF?style=flat-square&logo=javascript&logoColor=white) ![json_server](https://img.shields.io/badge/json_server-1.0-4CAF50?style=flat-square&logo=nodedotjs&logoColor=white) ![Mockoon](https://img.shields.io/badge/Mockoon-9-5B4FE9?style=flat-square&logo=mockoon&logoColor=white) ![WireMock](https://img.shields.io/badge/WireMock-3.9-FF5C5C?style=flat-square&logo=wiremock&logoColor=white) ![Beeceptor](https://img.shields.io/badge/Beeceptor-latest-FF6B35?style=flat-square&logo=beeceptor&logoColor=white)
+
+*10 badges*
+
+---
+
+## ⚡ Serverless & FaaS
+
+![AWS_Lambda](https://img.shields.io/badge/AWS_Lambda-latest-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![GCP_Functions](https://img.shields.io/badge/GCP_Functions-latest-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure_Functions](https://img.shields.io/badge/Azure_Functions-4-0078D4?style=flat-square&logo=azurefunctions&logoColor=white) ![Cloudflare_Workers](https://img.shields.io/badge/CF_Workers-latest-F48120?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel_Functions](https://img.shields.io/badge/Vercel_Functions-latest-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify_Functions](https://img.shields.io/badge/Netlify_Functions-latest-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![SST](https://img.shields.io/badge/SST-3.5-E27152?style=flat-square&logo=sst&logoColor=white) ![Serverless_Framework](https://img.shields.io/badge/Serverless-4-FD5750?style=flat-square&logo=serverless&logoColor=white) ![OpenFaaS](https://img.shields.io/badge/OpenFaaS-latest-3B6EEA?style=flat-square&logo=openfaas&logoColor=white) ![Knative](https://img.shields.io/badge/Knative-1.14-0865AD?style=flat-square&logo=knative&logoColor=white)
 
 *10 badges*
 
