@@ -6,13 +6,13 @@
 
 # 🏆 github-achievements
 
-> The most badge-heavy README on GitHub. **2553+ shields** across 50 categories covering every corner of the tech ecosystem.
+> The most badge-heavy README on GitHub. **2563+ shields** across 51 categories covering every corner of the tech ecosystem.
 
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/Mukller/github-achievements?style=for-the-badge&color=yellow)
-![Badge Count](https://img.shields.io/badge/badges-2553%2B-brightgreen?style=for-the-badge)
-![Categories](https://img.shields.io/badge/categories-50-blue?style=for-the-badge)
+![Badge Count](https://img.shields.io/badge/badges-2563%2B-brightgreen?style=for-the-badge)
+![Categories](https://img.shields.io/badge/categories-51-blue?style=for-the-badge)
 
 </div>
 
@@ -432,6 +432,14 @@
 ## 🏆 Certifications & Standards
 
 ![AWS_Certified](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GCP_Certified](https://img.shields.io/badge/GCP_Certified-Professional-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure_Certified](https://img.shields.io/badge/Azure_Certified-Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CKS](https://img.shields.io/badge/CKS-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![HashiCorp_Certified](https://img.shields.io/badge/HashiCorp-Certified-FFEC6E?style=flat-square&logo=vault&logoColor=black) ![OSCP](https://img.shields.io/badge/OSCP-Certified-EB1F1F?style=flat-square&logo=offensive-security&logoColor=white) ![CISSP](https://img.shields.io/badge/CISSP-Certified-0033A0?style=flat-square&logo=isc2&logoColor=white) ![CEH](https://img.shields.io/badge/CEH-Certified-CC0000?style=flat-square&logo=ec-council&logoColor=white)
+
+*10 badges*
+
+---
+
+## 🎯 API Testing & Mocking
+
+![Postman](https://img.shields.io/badge/Postman-11-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bruno](https://img.shields.io/badge/Bruno-1.29-FF5C5C?style=flat-square&logo=bruno&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-9-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-2024-31C4F4?style=flat-square&logo=hoppscotch&logoColor=white) ![MSW](https://img.shields.io/badge/MSW-2.3-FF6A33?style=flat-square&logo=msw&logoColor=white) ![Mirage_JS](https://img.shields.io/badge/Mirage_JS-0.1-6CADDF?style=flat-square&logo=javascript&logoColor=white) ![json_server](https://img.shields.io/badge/json_server-1.0-4CAF50?style=flat-square&logo=nodedotjs&logoColor=white) ![Mockoon](https://img.shields.io/badge/Mockoon-9-5B4FE9?style=flat-square&logo=mockoon&logoColor=white) ![WireMock](https://img.shields.io/badge/WireMock-3.9-FF5C5C?style=flat-square&logo=wiremock&logoColor=white) ![Beeceptor](https://img.shields.io/badge/Beeceptor-latest-FF6B35?style=flat-square&logo=beeceptor&logoColor=white)
 
 *10 badges*
 
